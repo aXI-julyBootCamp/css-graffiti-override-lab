@@ -27,3 +27,9 @@ body div#wall div.parent div:last-child div#tag-6 {
 body div#wall div.parent div > div#tag-7.slick {
     display: none;
 }
+
+/*CSS tricks*/
+/*The z-index property specifies the stack order of an element.*/
+/*The :first-child selector allows you to target the first element immediately inside another element.*/
+/*
+/*The :last-child selector allows you to target the last element directly inside its containing element.*/

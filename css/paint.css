@@ -65,3 +65,9 @@ body div#wall div.parent div > #tag-7.slick {
   z-index: 1;
   display: block;
 }
+
+/*CSS tricks*/
+/*The z-index property specifies the stack order of an element.*/
+/*The :first-child selector allows you to target the first element immediately inside another element.*/
+/*
+/*The :last-child selector allows you to target the last element directly inside its containing element.*/
